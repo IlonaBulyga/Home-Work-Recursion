@@ -1,0 +1,14 @@
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\bin\Debug\net8.0\HW_S_07.exe
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\bin\Debug\net8.0\HW_S_07.deps.json
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\bin\Debug\net8.0\HW_S_07.runtimeconfig.json
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\bin\Debug\net8.0\HW_S_07.dll
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\bin\Debug\net8.0\HW_S_07.pdb
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\HW_S_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\HW_S_07.AssemblyInfoInputs.cache
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\HW_S_07.AssemblyInfo.cs
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\HW_S_07.csproj.CoreCompileInputs.cache
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\HW_S_07.dll
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\refint\HW_S_07.dll
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\HW_S_07.pdb
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\HW_S_07.genruntimeconfig.cache
+C:\Users\Ilona\Downloads\GeekBrains\HW_S_07\HW_S_07\obj\Debug\net8.0\ref\HW_S_07.dll
